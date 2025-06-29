@@ -76,7 +76,7 @@ class ExampleScreen extends StatelessWidget {
 
 </td>
 <td>
-  <img src="screenshots/demo.jpg" alt="NeuBox Demo"/>
+  <img src="screenshots/demo.jpg" alt="NeuBox Demo" width="1080"/>
 </td>
 </tr>
 </table>

@@ -1,6 +1,6 @@
 name: neu_box
 description: "A customizable neumorphic-style container widget for Flutter, useful for creating soft UI elements with shadows and depth."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/hastik07/neu_box.git
 
 environment:
